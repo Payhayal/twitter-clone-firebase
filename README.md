@@ -11,5 +11,3 @@ moment
 react-toastify
 
 tailwind
-
-react js
