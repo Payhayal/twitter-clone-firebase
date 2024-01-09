@@ -1,14 +1,15 @@
 # Libraries Used
 
-firebase 
+firebase
 
-react-router-dom 
+react-router-dom
 
-react-icons 
+react-icons
 
-moment 
+moment
 
-react-toastify 
+react-toastify
 
 tailwind
 
+react js
