@@ -1,6 +1,6 @@
 
 
-### This is a twitter-clone project created with React and Firebase. Please look at the screen gif and photos for more details.
+#### This is a twitter-clone project created with React and Firebase. Please look at the screen gif and photos for more details.
 
 
 ```
@@ -18,6 +18,7 @@
  React-toastify 
 
  Tailwind.
+ 
 
 
 ##SCREEN GIF <hr>
