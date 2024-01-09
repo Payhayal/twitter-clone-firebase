@@ -2,17 +2,8 @@
 # Libraries Used
 ```
 
-Firebase
+Firebase, react-router-dom,react-icons,moment,react-toastify,tailwind.
 
-react-router-dom
-
-react-icons
-
-moment
-
-react-toastify
-
-tailwind
 
 ##SCREEN GIF <hr>
 
