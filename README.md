@@ -14,11 +14,11 @@ react-toastify
 
 tailwind
 
-##SCREEN GIF <hr>
+##SCREEN GIF
 
 ![](/public/images/twitter.gif)
 
-##SCREEN VIEW <hr>
+##SCREEN VIEW
 
 ![](/public/images/tw1.png)
 
