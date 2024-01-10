@@ -1,18 +1,25 @@
+
+
+#### This is a twitter-clone project created with React and Firebase. Please look at the screen gif and photos for more details.
+
+
 ```
-# Libraries Used
+## Libraries Used
 ```
 
-Firebase
+ Firebase
 
-react-router-dom
+ React-router-dom
 
-react-icons
+ React-icons
 
-moment
+ Moment
 
-react-toastify
+ React-toastify 
 
-tailwind
+ Tailwind.
+ 
+
 
 ##SCREEN GIF
 
